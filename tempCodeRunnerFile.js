@@ -1,0 +1,1 @@
+valorNumero  = valorNumero + numeros
