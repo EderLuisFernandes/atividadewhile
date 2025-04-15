@@ -4,7 +4,7 @@ console.log("Escolha as opções + - / * % **");
 let n1 = Number(prompt("Digite o primeiro num"))
 let operador = prompt("escolha uma opção")
 let n2 = Number(prompt("Digite o segundo num"))
-
+let usurioa
 while(true){
     if(operador == "+"){
         console.log(n1 + n2);
